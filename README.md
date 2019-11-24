@@ -18,7 +18,7 @@ It is basically a Scrapy project with one spider for each online organization th
 
 2. Enter the folder and install the project dependencies:
 
-        $ cd volunteermatch
+        $ cd volunteermatch_crawler
         $ pip install -r requirements.txt
 
 ## Running in a Local Environment
