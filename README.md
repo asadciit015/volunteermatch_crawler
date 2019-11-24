@@ -1,5 +1,5 @@
-[VolunteerMatch](https://www.volunteermatch.org)
-================================
+[VolunteerMatch](https://www.volunteermatch.org) Crawler
+=========================================================
 
 This is a simple VolunteerMatch scraper built with [Scrapy](https://github.com/scrapy/scrapy)
 and [Scrapy Cloud](https://scrapinghub.com/scrapy-cloud).
