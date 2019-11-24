@@ -1,5 +1,5 @@
-Scrapy VolunteerMatch - Organizations
-=====================================
+Scrapy VolunteerMatch - Organizations (https://www.volunteermatch.org)
+======================================================================
 
 This is a simple VolunteerMatch scraper built with [Scrapy](https://github.com/scrapy/scrapy)
 and [Scrapy Cloud](https://scrapinghub.com/scrapy-cloud).
