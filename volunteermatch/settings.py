@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for volunteermatch project
+# Scrapy settings for volunteermatch_crawler project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,7 +9,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'volunteermatch'
+BOT_NAME = 'volunteermatch_crawler'
 
 SPIDER_MODULES = ['volunteermatch.spiders']
 NEWSPIDER_MODULE = 'volunteermatch.spiders'
