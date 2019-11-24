@@ -1,4 +1,4 @@
-(https://www.volunteermatch.org)
+[VolunteerMatch](https://www.volunteermatch.org)
 ================================
 
 This is a simple VolunteerMatch scraper built with [Scrapy](https://github.com/scrapy/scrapy)
